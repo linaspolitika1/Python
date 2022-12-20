@@ -1,6 +1,2 @@
-def funkcija():
-    print('Cia yra funkcija')
-    return
+print('labas')
 
-
-funkcija()
